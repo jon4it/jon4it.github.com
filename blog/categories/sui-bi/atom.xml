@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Jon's Tech]]></title>
-  <link href="http://jon4it.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 随笔 | Jon's Tech]]></title>
+  <link href="http://jon4it.github.io/blog/categories/sui-bi/atom.xml" rel="self"/>
   <link href="http://jon4it.github.io/"/>
   <updated>2015-01-16T12:10:38+08:00</updated>
   <id>http://jon4it.github.io/</id>
